@@ -1,0 +1,23 @@
+.lang {
+        display: none;
+    }
+
+.lang.visible {
+      display: inline;
+    }
+
+body {
+	background-image: url(images/oggy.png);
+	background-repeat: no-repeat;
+	text-align: center;
+}
+
+button {
+	width: 70px;
+	height: 30px;
+	background: #b8d8fd;
+	border: 1px solid black;
+	border-radius: 8px;
+	cursor: pointer;
+}
+
